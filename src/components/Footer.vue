@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    <p>© 2025 Tim Agayev. All Rights Reserved</p>
+    <p>© 2025 Tim Aiv. All Rights Reserved</p>
   </footer>
 </template>
 <style scoped>
